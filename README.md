@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faizan5zanahmad
 - 👀 I’m interested in web3
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently aws, devops 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
